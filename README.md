@@ -1,4 +1,4 @@
-## Run on Bluemix 1
+## Run on Bluemix 2
 
 * cd to a directory you want the application in.
 * ```git clone https://hub.jazz.net/git/ajlohr/Microservices_UI```
